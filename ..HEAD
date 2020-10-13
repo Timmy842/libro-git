@@ -1,0 +1,32 @@
+diff --git a/capitulos/capitulo1.txt b/capitulos/capitulo1.txt
+new file mode 100644
+index 0000000..7431f9e
+--- /dev/null
++++ b/capitulos/capitulo1.txt
+@@ -0,0 +1 @@
++Git es un sistema de control de versiones ideado por Linus Torvalds.
+diff --git a/capitulos/capitulo2 b/capitulos/capitulo2
+new file mode 100644
+index 0000000..0070310
+--- /dev/null
++++ b/capitulos/capitulo2
+@@ -0,0 +1,4 @@
++El flujo de trabajo básico con Git consiste en:
++1- Hacer cambios en el repositorio.
++2- Añadir los cambios a la zona de intercambio temporal.
++3- Hacer un commit de los cambios.
+diff --git a/indice.txt b/indice.txt
+index 0aec1b2..d9338fe 100644
+--- a/indice.txt
++++ b/indice.txt
+@@ -1,7 +1,5 @@
+ 
+-Capitulo 1: Introduccion a Git
+-
++Capítulo 1: Introducción a Git
+ Capítulo 2: Flujo de trabajo básico
+-CC[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+-
+-[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[BCapitulo 3:Repositorios remotos
++Capítulo 3: Gestión de ramas
++Capítulo 4: Repositorios remotos
